@@ -32,7 +32,7 @@ After you're finished please remove all the comments and instructions!
   
   <br/>
 
-  <h3><b>Portfolio Desktop Version</b></h3>
+  <h3><b>Project trials</b></h3>
 
 </div>
 
@@ -63,7 +63,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Portfolio] <a name="about-project"></a>
 
-**[Portfolio]** is a simple page based on the example template of figma
+**[Portfolio]** is a simple page made in pre-bootcamp
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -122,7 +122,7 @@ To get a local copy up and running follow these simple steps.
 
 Run the command below from the Terminal:
 
-      git clone git@github.com:gdvl777/Portfolio.git in your terminal
+      git clone git@github.com:gdvl777/review_project.git in your terminal
 
 	  cd portfolio
 
@@ -158,7 +158,7 @@ Features coming soon
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/gdvl777/Portfolio/issues).
+Feel free to check the [issues page](https://github.com/gdvl777/review_project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
